@@ -10,9 +10,9 @@ Date: April 2024
 # Table of Contents
 
 * [1 Introduction](#Introduction)
-    * [1.1 Scenario](#Introduction-scenario)
-    * [1.2 Stakeholders and products](#Introduction-stakeholders-and-products)
-    * [1.3 About the company](#Introduction-about-the-company)
+    * [1.1 Scenario](#Scenario)
+    * [1.2 Stakeholders and products](#Stakeholders-and-products)
+    * [1.3 About the company](#About-the-company)
 
 <br>
 
