@@ -1,7 +1,17 @@
-# Google Data Analytics Capstone: Case Study #1
+# Google Data Analytics Capstone Case Study: How Can a Wellness Technology Company Play It Smart?
 
 ![header_img](imgs/header_img.png)
 
+By: John Klenn Andrew P. Dungaran \
+Date: April 2024
+
 <br>
 
-# How Can a Wellness Technology Company Play It Smart?
+# Table of Contents
+
+
+
+<br>
+
+# Introduction
+
