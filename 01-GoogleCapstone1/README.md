@@ -2,13 +2,17 @@
 
 ![header_img](imgs/header_img.png)
 
-By: John Klenn Andrew P. Dungaran \
+Author: John Klenn Andrew P. Dungaran \
 Date: April 2024
 
 <br>
 
 # Table of Contents
 
+* [1 Introduction](#Introduction)
+    * [1.1 Scenario](##Scenario)
+    * [1.2 Stakeholders and products](##Stakeholders-and-products)
+    * [1.3 About the company](##About-the-company)
 
 <br>
 
@@ -16,7 +20,9 @@ Date: April 2024
 
 Welcome to the Bellabeat data analysis case study!
 
-In this case study, I will perform many real-world tasks of a junior data analyst. I will pretend to work for Bellabeat, a high-tech manufacturer of health-focused products for women, and meet different characters and team members. In order to answer the key business questions, I will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act. 
+In this case study, I will perform many real-world tasks of a junior data analyst. I will pretend to work for Bellabeat, a high-tech manufacturer of health-focused products for women, and meet different characters and team members. In order to answer the key business questions, I will follow the steps of the data analysis process: 
+
+**Ask, Prepare, Process, Analyze, Share, and Act**. 
 
 ![analysis_process](imgs/analysis_process.png)
 <br>
@@ -28,9 +34,9 @@ I am a junior data analyst working on the **marketing analyst** team at Bellabea
 I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights I discover will then help guide marketing strategy for the company. I will present my analysis to the Bellabeat executive team along with my high-level recommendations for Bellabeat’s marketing strategy.
 <br>
 
-## Characters and products
+## Stakeholders and products
 
-* **Characters**
+* **Stakeholders**
 
     * **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
     * **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
