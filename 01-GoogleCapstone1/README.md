@@ -57,7 +57,5 @@ I have been asked to focus on one of Bellabeat’s products and analyze smart de
 
 ## 1.1 Business Task
 
-```
 Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. Then, select one Bellabeat product to apply these insights for Bellabeat marketing strategy.
-```
 
