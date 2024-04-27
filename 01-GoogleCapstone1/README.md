@@ -13,7 +13,7 @@ Date: April 2024
 # TABLE OF CONTENTS
 
 * [1 Introduction](#Introduction)
-    * [1.1 Scenario](#Scenario)
+    * [1.1 Background](#background)
     * [1.2 Stakeholders and products](#Stakeholders-and-products)
 
 <br>
@@ -28,7 +28,7 @@ In this case study, I will perform real-world tasks of a junior data analyst. In
 
 ![analysis_process](imgs/analysis_process.png)
 
-## Scenario
+## Background
 
 I am a junior data analyst working on the **marketing analyst** team at Bellabeat, a high-tech manufacturer of health-focused products for women. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.
 
@@ -55,4 +55,6 @@ I have been asked to focus on one of Bellabeat’s products and analyze smart de
 
 # STEP 1: ASK
 
-
+```
+Analyze FitBit Fitness Tracker Data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing strategy.
+```
