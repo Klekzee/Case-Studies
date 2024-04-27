@@ -55,6 +55,9 @@ I have been asked to focus on one of Bellabeat’s products and analyze smart de
 
 # STEP 1: ASK
 
+## 1.1 Business Task
+
 ```
-Analyze FitBit Fitness Tracker Data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing strategy.
+Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. Then, select one Bellabeat product to apply these insights for Bellabeat marketing strategy.
 ```
+
