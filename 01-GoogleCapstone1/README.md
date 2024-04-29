@@ -34,7 +34,7 @@ I am a junior data analyst working on the **marketing analyst** team at Bellabea
 
 I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights I discover will then help guide marketing strategy for the company.
 
-## Stakeholders and products
+## Stakeholders and Products
 
 * **Stakeholders**
 
@@ -81,4 +81,20 @@ Analyze smart device usage data in order to gain insight into how consumers use 
 
 ## 2.1 Data Information
 
-* The data was retrieve from 
+* The data was retrieve publicly from Kaggle: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit).
+* The database is segmented into 18 different csv files with lots of details about the user's behaviour.
+* It contains personal fitness tracker from thirty (30) fitbit users who gave their consent.
+* The data includes minute-level output for physical activities, heart rate, sleep monitoring, daily activity, and steps.
+
+## 2.2 Data Limitations
+
+* **Small Sample Size**: The sample size of 30 female users is not representative of the entire female population.
+* **Outdated**: Data collected from 2016. Daily activities from users may have changed overtime making the data unreliable.
+* **Prone to Bias**: The data did not provide demographic information other than that they are all female which could lead to bias or discrepancies in the analysis.
+
+<br>
+<br>
+
+# STEP 3: PROCESS
+
+The tool which I will be using is Python since it can analyze and at the same time visualize the data.
