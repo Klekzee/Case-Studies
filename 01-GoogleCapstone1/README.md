@@ -1,6 +1,6 @@
 # Bellabeat: How Can a Wellness Technology Company Play It Smart?
 
-![header_img](imgs/header_img.png)
+![header_img](assets/header_img.png)
 
 This case study is part of the **Google Data Analytics Professional Certificate Capstone Project**.
 
@@ -26,7 +26,7 @@ In this case study, I will perform real-world tasks of a junior data analyst. In
 
 **Ask, Prepare, Process, Analyze, Share, and Act**. 
 
-![analysis_process](imgs/analysis_process.png)
+![analysis_process](assets/analysis_process.png)
 
 ## Background
 
@@ -59,3 +59,26 @@ I have been asked to focus on one of Bellabeat’s products and analyze smart de
 
 Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. Then, select one Bellabeat product to apply these insights for Bellabeat marketing strategy.
 
+## 1.2 Business Objectives
+
+1. What are the trends identified?
+2. How could these trends apply to Bellabeat customers?
+3. How could these trends help influence Bellabeat marketing strategy?
+
+## 1.3 Deliverables
+
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis
+
+<br>
+<br>
+
+# STEP 2: PREPARE
+
+## 2.1 Data Information
+
+* The data was retrieve from 
