@@ -1,6 +1,6 @@
 # Google Data Analytics: Capstone Project
 
-![header](assets\header_img.png)
+![header](assets/header_img.png)
 
 ## Bellabeat Case Study
 
@@ -9,7 +9,7 @@ Date: April 2024
 
 ## Background:
 
-This case study analysis is part of the Google Data Analytics Professional Certificate Capstone Project. I will be delving into the role of a junior data analyst for the marketing team of Bellabeat. I will be analyzing existing data about fitness and health habits by another app called FitBit and gathering insights in order to implement them into Bellabeat App. I will be following the steps of the data analysis process: **Ask, Prepare, Process, Analyze, Share, and Act**, in order to answer the Business Objectives.
+This case study analysis is part of the **Google Data Analytics Professional Certificate Capstone Project**. I will be delving into the role of a junior data analyst for the marketing team of Bellabeat, analyzing existing data about fitness and health habits from another app called FitBit. My goal is to gather insights to implement into the Bellabeat app. I will be following the steps of the data analysis process: **Ask, Prepare, Process, Analyze, Share, and Act**, in order to answer the business objectives.
 
 ### Business Task:
 
