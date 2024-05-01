@@ -4,6 +4,8 @@
 
 ## Bellabeat Case Study
 
+[Bellabeat Case Study](BellaBeat.ipynb)
+
 Author: John Klenn Andrew P. Dungaran \
 Date: April 2024
 
